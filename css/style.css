@@ -13,3 +13,14 @@ body {
     text-align: center;
     padding: 4rem;
 }
+
+body.dark {
+    background-color: #1f1f1f;
+    color: white;
+}
+
+
+label {
+    user-select: none;
+    cursor: pointer;
+}
