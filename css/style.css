@@ -12,6 +12,8 @@ body {
     min-height: 100vh;
     text-align: center;
     padding: 4rem;
+    transition: background 0.5s linear,
+        color 0.3s linear;
 }
 
 body.dark {
